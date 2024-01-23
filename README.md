@@ -25,3 +25,6 @@ MySql Database logs:
 
 
 Homepage:
+
+![image](https://github.com/sidd2423/blogging-website/assets/112332747/76311635-4106-4f44-9d3d-7a6d3be2dcd0)
+
