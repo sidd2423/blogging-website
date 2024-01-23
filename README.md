@@ -30,6 +30,7 @@ Homepage:
 
 Post file example:
 
-![image](https://github.com/sidd2423/blogging-website/assets/112332747/036c4cb7-e8b8-4399-a668-b79620e48154)
+![image](https://github.com/sidd2423/blogging-website/assets/112332747/89c41e33-3a45-4f55-bb1c-127bf35552f3).
+
 
 
