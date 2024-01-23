@@ -1,0 +1,59 @@
+body{
+    background:black;
+    color:white;
+    max-width: 600px;
+    margin:auto;
+    font-family: sans-serif;  
+}
+
+p { 
+    line-height: 1.6;
+}
+
+article + article {
+    margin-top: 3rem;
+    padding-top: 3rem;
+    border-top: 2.5px solid #27e1c2;
+}
+
+a:link {
+    color:#0D98BA.;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:visited {
+    color: #52b2bf;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+    color:#042c36.; 
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:active {
+    color:#0A758F;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+
+  bodylogout {
+    margin: 0;
+    padding: 0;
+}
+
+headerlogout {
+    background-color: rgb(0, 223, 132);
+    color: white;
+    
+    text-align: right;
+}
+
+logoutbutton {
+    background-color: rgb(0, 223, 132);
+    color: black;
+    padding: 13px;
+    margin-right: 10px;
+    cursor: pointer;
+    line-height: 2;
+}
